@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baradi Pavan</h1>
-<h3 align="center">An active learner seeking for opportunities for challenging positions in organizations that rewards dedication and helps me pinnacle in field of Computer Science.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baradipavan2017&label=Profile%20views&color=0e75b6&style=flat" alt="baradipavan2017" /> </p>
 
